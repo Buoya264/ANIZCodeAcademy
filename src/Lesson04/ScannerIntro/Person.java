@@ -12,6 +12,7 @@ public class Person {
         this.age = age;
         this.height = height;
         this.likesPizza = likesPizza;
+
     }
 
     // Method to describe the person
